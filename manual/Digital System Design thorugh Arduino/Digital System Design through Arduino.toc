@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Basic Gates}{1}
+\contentsline {subsection}{\numberline {1.1}Fundamental gates}{1}
+\contentsline {subsection}{\numberline {1.2}Universal Gates}{1}
+\contentsline {subsection}{\numberline {1.3}Exclusive OR and NOR gates}{2}
+\contentsline {section}{\numberline {2}Combination Logic Circuits}{2}
+\contentsline {subsection}{\numberline {2.1}Adder}{2}
+\contentsline {subsection}{\numberline {2.2}Subtractor}{2}
+\contentsline {subsection}{\numberline {2.3}Encoder}{3}
+\contentsline {subsection}{\numberline {2.4}Decoder}{3}
+\contentsline {subsection}{\numberline {2.5}Multiplexer}{4}
+\contentsline {subsection}{\numberline {2.6}Demultiplexer}{4}
+\contentsline {subsection}{\numberline {2.7}Comparator}{5}
+\contentsline {section}{\numberline {3}Sequential Logic Circuits}{5}
+\contentsline {subsection}{\numberline {3.1}SR Latch}{5}
+\contentsline {subsection}{\numberline {3.2}SR Flip Flop}{6}
+\contentsline {subsection}{\numberline {3.3}D Flip Flop}{6}
+\contentsline {subsection}{\numberline {3.4}JK Flip Flop}{7}
+\contentsline {subsection}{\numberline {3.5}T Flip Flop}{7}
+\contentsline {subsection}{\numberline {3.6}Counters}{8}
